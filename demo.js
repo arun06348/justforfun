@@ -1,7 +1,7 @@
 function clickLove()
 {
     alert("thank you so much for loving me!");
-    document.write("love you to");
+    document.write("love you too😍😍");
 }
 function clickHate()
 {
